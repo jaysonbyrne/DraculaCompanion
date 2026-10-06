@@ -1,0 +1,133 @@
+# -*- coding: latin-1 -*-
+"""Chapter 24 content for the Dracula companion."""
+CHAPTER = {
+    "number": 24,
+    "label": "CHAPTER TWENTY-FOUR",
+    "title": "DR. SEWARD'S PHONOGRAPH DIARY, SPOKEN BY VAN HELSING",
+    "subtitle": "4th -- 6th October",
+    "epigraph": '"Take heart afresh, dear husband of Madam Mina. This battle is but begun, and in the end we shall win"',
+    "docs": [
+        {
+            "num": "No. I.",
+            "title": "MESSAGE FROM DR. VAN HELSING.",
+            "subtitle": "Spoken into Dr. Seward's phonograph; addressed to Jonathan Harker.",
+            "style": "letter",
+            "opening": [
+                "This to Jonathan Harker.",
+            ],
+            "paras": [
+                "You are to stay with your dear Madam Mina. We shall go to make our search -- if I can call it so, for it is not search but knowing, and we seek confirmation only. But do you stay and take care of her to-day. This is your best and most holiest office. This day nothing can find him here.",
+                "He, our enemy, have gone away; he have gone back to his Castle in Transylvania. I know it so well, as if a great hand of fire wrote it on the wall. He find ship going by the route he came, and he go in it. We go off now to find what ship, and whither bound; when we have discover that, we come back and tell you all.",
+                "This very creature that we pursue, he take hundreds of years to get so far as London; and yet in one day, when we know of the disposal of him we drive him out. He is finite, though he is powerful to do much harm and suffers not as we do. But we are strong, each in our purpose; and we are all more strong together. Take heart afresh, dear husband of Madam Mina. This battle is but begun, and in the end we shall win -- so sure as that God sits on high to watch over His children.",
+            ],
+            "signoff": "-- Therefore be of much comfort till we return.",
+            "signature": "VAN HELSING.",
+        },
+        {
+            "num": "No. II.",
+            "title": "THE SEARCH FOR THE SHIP.",
+            "subtitle": "Mrs. Harker's report of the meeting of 5th October, at 5 p.m.",
+            "style": "prose",
+            "paras": [
+                "As the Count's vessel was a sailing ship, and such are not set down in the shipping list of the Times, we went, by Lord Godalming's suggestion, to Lloyd's, where are note of all ships that sail, however so small. There we found that only one Black-Sea-bound ship had gone out with the tide. She is the Czarina Catherine, and she sailed from Doolittle's Wharf for Varna, and thence on to other parts and up the Danube. 'Soh!' said the Professor, 'this is the ship whereon is the Count.'",
+                "At Doolittle's Wharf we found a man in an office of wood so small that the man looked bigger than the office. He swore much, and was red of face and loud of voice, but he proved a good fellow all the same; and when Mr. Morris gave him something from his pocket which crackled as he rolled it up, he was a still better fellow, and a humble servant to us.",
+                "The watermen told us how, last afternoon at about five o'clock, there came a man in such hurry: a tall man, thin and pale, with high nose and teeth so white, and eyes that seemed to be burning; all in black, except that he had a hat of straw which suited not him or the time. He scattered his money in making quick inquiry as to what ship sailed for the Black Sea; and when the box was brought, he himself lifted it down from the cart, though it took several men to put it on the truck for the ship.",
+                "No one knew where he went, 'or bloomin' well cared,' as they said; for it soon became apparent that the Czarina Catherine would not sail as was expected. A thin mist began to creep up from the river, and grew and grew, till soon a dense fog enveloped the ship and all around her. The captain swore polyglot -- very polyglot -- but he could do nothing. And when other mariners were questioned, it was found that few of them had seen any fog at all, except where it lay round the wharf. However, the ship went out on the ebb tide; and was doubtless by morning far down the river mouth.",
+                "We have seen the owner of the ship, who shewed us invoices and all papers that can be. The box we seek is to be landed in Varna, and to be given to an agent, one Ristics, who will there present his credentials; and so our merchant friend will have done his part.",
+            ],
+        },
+        {
+            "num": "No. III.",
+            "title": "EXPENSES OF THE INQUIRY AT THE DOCKS.",
+            "subtitle": "Incurred 5th October, in discovering the Count's ship.",
+            "style": "bill",
+            "bill_title": "EXPENSES.",
+            "bill_sub": "Incurred 5th October, in discovering the Count's ship.",
+            "items": [
+                ("Cab to Lloyd's, and thence to Doolittle's Wharf", "7s. 6d."),
+                ("Horse and cart, hired in haste upon the quay", "10s."),
+                ("A crackling note, from Mr. Morris's pocket, to the clerk", "1 pound"),
+                ("Beer for thirsty mariners, that they might remember", "12s."),
+                ("Ship's forms, purchased close at hand (unused)", "2s."),
+            ],
+            "total": "TOTAL ............ 2 pounds, 11s. 6d.",
+            "note": "(The clerk swore much, and was red of face and loud of voice; but he proved a good fellow all the same, and a humble servant to us after Mr. Morris's note had crackled.)",
+        },
+        {
+            "num": "No. IV.",
+            "title": "SAILINGS FOR THE BLACK SEA.",
+            "subtitle": "From the books at Lloyd's; all ships that sail, however so small.",
+            "style": "timetable",
+            "rows": [
+                ("Czarina Catherine", "sailing barque, for Varna and up the Danube", "sailed with the tide, 4th October"),
+            ],
+            "note": "N.B. -- No other Black-Sea-bound vessel went out with the tide.",
+            "paras": [
+                "The owner of the ship shewed us invoices and all papers that can be. The box we seek is to be landed in Varna, and to be given to an agent, one Ristics, who will there present his credentials.",
+                "'Soh!' said the Professor, 'this is the ship whereon is the Count.'",
+            ],
+        },
+        {
+            "num": "No. V.",
+            "title": "THE MAN-EATER.",
+            "subtitle": "Dr. Van Helsing, at the meeting of 5th October.",
+            "style": "broadside",
+            "paras": [
+                "Your man-eater, as they of India call the tiger",
+                "who has once tasted blood of the human,",
+                "care no more for the other prey,",
+                "but prowl unceasing till he get him.",
+                "This that we hunt from our village is a tiger, too,",
+                "a man-eater, and he never cease to prowl.",
+            ],
+        },
+        {
+            "num": "No. VI.",
+            "title": "A PROMISE.",
+            "subtitle": "Given by Mr. Harker to his wife, 5th October, upon his word of honour.",
+            "style": "notice",
+            "lead": "NOT BY WORD, OR INFERENCE, OR IMPLICATION.",
+            "paras": [
+                '"Promise me that you will not tell me anything of the plans formed for the campaign against the Count. Not by word, or inference, or implication; not at any time whilst this remains to me!" -- and she solemnly pointed to the scar upon her forehead.',
+                '"I promise!" said he; and as he said it he felt that from that instant a door had been shut between them.',
+            ],
+        },
+        {
+            "num": "No. VII.",
+            "title": "MR. HARKER'S WILL.",
+            "subtitle": "Settled 6th October, before the journey.",
+            "style": "notice",
+            "lead": "ALL MY AFFAIRS OF EARTH ARE SETTLED.",
+            "paras": [
+                "My will is made, and all complete. Mina if she survive is my sole heir. If it should not be so, then the others who have been so good to us shall have remainder.",
+                '"Let all things which touch on others dear to us, and who on us depend, be complete; for none of us can tell what, or when, or how, the end may be."',
+            ],
+        },
+    ],
+    "plates": [
+        {
+            "after_doc": 1,
+            "file": "plates/czarina.jpg",
+            "numeral": "Plate I.",
+            "title": "THE CZARINA CATHERINE.",
+            "caption": "She went out on the ebb tide, wrapped in a fog that no other mariner on the river could see.",
+            "prompt": "19th century oil painting, vertical portrait composition: a three-masted sailing barque under full sail on a wide grey river at dusk, a dense unnatural fog coiling only around the ship while the water around lies clear, a tall thin figure in black standing motionless on the deck. Deeply atmospheric, Victorian book-illustration style. No text, no watermark.",
+        },
+        {
+            "after_doc": 3,
+            "file": "plates/wharf.jpg",
+            "numeral": "Plate II.",
+            "title": "DOOLITTLE'S WHARF.",
+            "caption": "The thin man in black drove the cart himself, and lifted down the great box with his own hands.",
+            "prompt": "19th century oil painting, vertical portrait composition: a tall thin pale man in black wearing an incongruous straw hat driving a horse-drawn cart bearing a great wooden box along a grimy London dock at dusk, rough stevedores watching, masts and rigging of a sailing ship behind. Deeply atmospheric, Victorian book-illustration style. No text, no watermark.",
+        },
+        {
+            "after_doc": 5,
+            "file": "plates/promise.jpg",
+            "numeral": "Plate III.",
+            "title": "THE PROMISE.",
+            "caption": "'Not at any time whilst this remains to me!' -- she pointed to the scar upon her forehead.",
+            "prompt": "19th century oil painting, vertical portrait composition: a young Victorian woman in a lamplit drawing-room solemnly pointing to her own forehead while a gaunt young man kneels before her clasping her hands, both grave, heavy shadows. Deeply atmospheric, Victorian book-illustration style. No text, no watermark.",
+        },
+    ],
+}
