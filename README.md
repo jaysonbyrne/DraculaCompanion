@@ -39,6 +39,37 @@ first or stale pages silently survive.
 Chapter 1 uses its own builder (`ch01/make_ephemera.py`); chapters 2–28
 use `lib/build_chapter.py`.
 
+## The reading volumes
+
+Three more books are built from this companion's papers, all in `novel/`:
+
+- **`dracula_text.pdf`** (897 pp) — the complete novel with ◆ references
+  to the Companion's papers.
+- **`dracula_illustrated.pdf`** (1,328 pp) — the complete novel with all
+  274 papers/plates embedded as figures at their story moments, plus ◆
+  references; opens with the vampire-painting cover.
+- **`dracula_pocket.pdf`** (1,559 pp) — an iPhone-14-format (104×225mm)
+  Moleskine-style edition: brown leather cover, cream pages, wide
+  documents on their own landscape pages, every ◆ reference a small
+  facsimile card of the actual document.
+
+Build order — the companion's chapter PDFs must exist first (see above),
+then:
+
+```sh
+cd novel
+python3 build_novel.py both                  # text + illustrated
+python3 bind_novel_cover.py <painting.png>   # vampire cover on the illustrated ed.
+python3 make_moleskine_cover.py <leather.png>  # compose the pocket cover
+python3 build_pocket.py                      # the pocket edition
+```
+
+`novel/` layout: `build_novel.py` (the two A5 volumes),
+`build_pocket.py` (the phone volume), `bind_novel_cover.py`,
+`make_moleskine_cover.py`, `ch01.txt`…`ch27.txt` (novel text, from
+Project Gutenberg), `anchors_*.json` (the 274 paper→story-moment
+mappings), `inventory.json` (companion page index, at repo root).
+
 ## Layout
 
 - `lib/` — shared design system: `packet.py` (page, fonts, backgrounds),

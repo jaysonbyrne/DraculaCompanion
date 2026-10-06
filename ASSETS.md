@@ -33,3 +33,29 @@ in `ancient/` (`village-woodcut`, `bat-woodcut`, `strigoi-frontispiece`).
 rebuild with `python3 build_master.py && python3 bind_cover.py`. The
 published master is uploaded to the Internet Archive (see
 `archive-org-listing.txt`).
+
+The three reading volumes (`novel/dracula_text.pdf`,
+`novel/dracula_illustrated.pdf`, `novel/dracula_pocket.pdf`) are likewise
+build artifacts — rebuild with the `novel/` scripts (see README). Listing
+metadata for their Internet Archive uploads lives in
+`novel/archive-org-listing-{text,illustrated,pocket}.txt`.
+
+## Reading-volume cover art (binary, not tracked)
+
+- **Vampire painting** — the illustrated edition's cover: a gothic oil
+  painting of the Count on a castle terrace under a bat-filled moonlit
+  sky. Regenerate prompt: "Spooky gothic oil painting, tall portrait
+  composition: a pale vampire count with dark slicked hair and a
+  high-collared black cloak standing on a castle terrace, a moonlit
+  gothic castle looming behind him, bats wheeling in a stormy night sky,
+  mist coiling around stone balustrades, dramatic chiaroscuro, Victorian
+  horror book illustration style. Dark shadowy tones in the upper third
+  with space for a title. No text, no watermark." The white title is
+  composited by `novel/bind_novel_cover.py`.
+- **Brown leather texture** — the pocket edition's Moleskine cover base:
+  "Close-up photograph of a plain brown leather notebook cover,
+  moleskine style, smooth cognac-brown leather with fine natural grain
+  texture, soft even studio lighting, completely blank with no text and
+  no logos, tall portrait orientation, no watermark."
+  `novel/moleskine_cover.jpg` is composed from it by
+  `novel/make_moleskine_cover.py` (debossed title) and is also untracked.
