@@ -1,0 +1,33 @@
+ARCHIVE.ORG LISTING — Dracula: Pocket Edition
+================================================
+File: dracula_pocket.pdf
+
+Identifier (must be unique on archive.org; checked 2026-10-06 — no item at this URL):
+  dracula-pocket-edition-stoker
+
+Title:
+  Dracula — Pocket Edition: The Novel & Companion, Formatted for the iPhone
+
+Creator:
+  Bram Stoker (text); companion papers and plates by [your name]
+
+Description:
+  A pocket edition of Dracula formatted for the iPhone 14 screen (104×225mm
+  page matching the 1170:2532 screen ratio): Moleskine-style brown leather
+  cover with simple debossed lettering, cream pages, the full novel plus all
+  274 companion papers and plates as portrait figure pages. Every ◆ reference
+  is a small facsimile card of the actual document; wide documents get their
+  own landscape pages.
+
+  Stoker's novel (1897) is in the public domain; every document and
+  illustration is newly made for it.
+
+  1,559 pages.
+
+Subject tags (comma-separated on archive.org):
+  Dracula, Bram Stoker, Gothic fiction, horror fiction, Victorian literature,
+  ephemera, illustrated books, pocket edition, mobile reading
+
+License / rights statement:
+  "The companion's original documents and illustrations are released under
+  CC BY-NC 4.0. Bram Stoker's Dracula (1897) is in the public domain."

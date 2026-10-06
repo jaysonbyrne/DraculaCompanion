@@ -1,0 +1,32 @@
+ARCHIVE.ORG LISTING — Dracula: The Text
+================================================
+File: dracula_text.pdf
+
+Identifier (must be unique on archive.org; checked 2026-10-06 — no item at this URL):
+  dracula-the-text-bram-stoker
+
+Title:
+  Dracula — The Text: Bram Stoker's Novel with Companion References
+
+Creator:
+  Bram Stoker (text); companion apparatus by [your name]
+
+Description:
+  The full text of Bram Stoker's Dracula (1897), in a clean reading edition
+  keyed to The Dracula Companion (posted separately): every ◆ reference in
+  the text points to the matching period document, plate, or map in the
+  companion volume. Read the novel straight through, or read it alongside
+  the companion, chapter by chapter.
+
+  Stoker's novel is in the public domain. The typography, design, and
+  companion-reference apparatus are newly made for this edition.
+
+  897 pages.
+
+Subject tags (comma-separated on archive.org):
+  Dracula, Bram Stoker, Gothic fiction, horror fiction, Victorian literature,
+  illustrated books, literary companion
+
+License / rights statement:
+  "Bram Stoker's Dracula (1897) is in the public domain. The design and
+  companion-reference apparatus are by [your name]."

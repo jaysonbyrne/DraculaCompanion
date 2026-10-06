@@ -1,0 +1,33 @@
+ARCHIVE.ORG LISTING — Dracula: An Illustrated Edition
+================================================
+File: dracula_illustrated.pdf
+
+Identifier (must be unique on archive.org; checked 2026-10-06 — no item at this URL):
+  dracula-illustrated-edition-stoker
+
+Title:
+  Dracula — An Illustrated Edition: The Novel with Its Period Papers & Plates
+
+Creator:
+  Bram Stoker (text); companion papers and plates by [your name]
+
+Description:
+  Bram Stoker's Dracula (1897) in full, with the complete Dracula Companion
+  woven into the narrative: all 274 period documents and painted plates —
+  hotel notices, guidebook extracts, pamphlets, broadsides, diligence
+  timetables, letters, bills, newspaper cuttings, telegrams, oil-painting-
+  style plates and antique maps — appear as figures at their story moments.
+  Opens with a spooky vampire-painting cover.
+
+  Stoker's novel is in the public domain; every document and illustration is
+  newly made for it.
+
+  ~1,328 pages.
+
+Subject tags (comma-separated on archive.org):
+  Dracula, Bram Stoker, Gothic fiction, horror fiction, Victorian literature,
+  ephemera, illustrated books, literary companion
+
+License / rights statement:
+  "The companion's original documents and illustrations are released under
+  CC BY-NC 4.0. Bram Stoker's Dracula (1897) is in the public domain."

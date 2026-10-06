@@ -1,0 +1,848 @@
+[
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Plate I.",
+    "title": "MR. HARKER'S JOURNEY, APRIL -- MAY 1893.",
+    "anchor": "I shall enter\nhere some of my notes, as they may refresh my memory",
+    "occurrence": 1,
+    "why": "journey notes passage"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Watercolour I.",
+    "title": "MUNICH -- 1ST MAY, 8:35 P.M.",
+    "anchor": "Munich at 8:35 P. M., on 1st May, arriving at\nVienna early next morning; should",
+    "occurrence": 1,
+    "why": "departure sentence"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Watercolour II.",
+    "title": "VIENNA -- 2ND MAY, DAWN.",
+    "anchor": "Vienna early next morning; should have arrived at 6:46, but train was an\nhour late.",
+    "occurrence": 1,
+    "why": "dawn arrival at Vienna"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Watercolour III.",
+    "title": "BUDA-PESTH -- THE DANUBE.",
+    "anchor": "Buda-Pesth seems a wonderful place, from the glimpse which I\ngot",
+    "occurrence": 1,
+    "why": "glimpse of Buda-Pesth"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Watercolour IV.",
+    "title": "KLAUSENBURG -- THE MOUNTAIN HALT.",
+    "anchor": "We left in pretty good time, and came after nightfall to Klausenburgh.",
+    "occurrence": 1,
+    "why": "nightfall at Klausenburgh"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Watercolour V.",
+    "title": "BISTRITZ -- 3RD MAY.",
+    "anchor": "when we got to Bistritz, which is a\nvery interesting old place.",
+    "occurrence": 1,
+    "why": "arrival at Bistritz"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Watercolour VI.",
+    "title": "THE BORGO PASS -- 4TH MAY, DUSK.",
+    "anchor": "entering on the Borgo Pass. One\nby one several of the passengers offered me",
+    "occurrence": 1,
+    "why": "entering the Pass"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Plate II.",
+    "title": "THE ROAD FROM BISTRITZ TO THE BORGO PASS.",
+    "anchor": "amongst these\ngreen hills of what they call here the “Mittel Land” ran the road,",
+    "occurrence": 1,
+    "why": "the Mittel Land road"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "No. II.",
+    "title": "THE GOLDEN CROWN HOTEL",
+    "anchor": "Count Dracula had directed me to go to the Golden Krone Hotel, which I\nfound,",
+    "occurrence": 1,
+    "why": "directed to the Golden Krone"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Plate III.",
+    "title": "THE GOLDEN CROWN, BISTRITZ.",
+    "anchor": "I shall never forget the last glimpse which I\nhad of the inn-yard and its",
+    "occurrence": 1,
+    "why": "last glimpse of the inn-yard"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "No. III.",
+    "title": "BISTRITZ AND THE BORGO PASS.",
+    "anchor": "The\nimpression I had was that we were leaving the West and entering the\nEast;",
+    "occurrence": 1,
+    "why": "leaving the West for the East"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Plate IV.",
+    "title": "BISTRITZ, MARKET MORNING.",
+    "anchor": "I had for breakfast more paprika, and a sort of porridge of maize flour",
+    "occurrence": 1,
+    "why": "Bistritz morning breakfast"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "No. IV.",
+    "title": "ST. GEORGE'S EVE IN TRANSYLVANIA.",
+    "anchor": "“It is the eve of St. George’s Day. Do you not know that to-night, when",
+    "occurrence": 1,
+    "why": "eve of St. George's Day"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "No. V.",
+    "title": "THE BLUE FLAMES.",
+    "anchor": "gathering a few stones,\nformed them into some device.",
+    "occurrence": 1,
+    "why": "driver marks the flame"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Plate V.",
+    "title": "THE BLUE FLAMES.",
+    "anchor": "for I could see its ghostly flicker all the same.",
+    "occurrence": 1,
+    "why": "ghostly flicker of the flame"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "No. VI.",
+    "title": "IMPERIAL-ROYAL PRIVILEGED POST-DILIGENCE.",
+    "anchor": "I am writing up this part of the diary whilst I am waiting\nfor",
+    "occurrence": 1,
+    "why": "waiting for the coach"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Plate VI.",
+    "title": "THE DILIGENCE ON THE BORGO ROAD.",
+    "anchor": "his big\nwhip over his four small horses, which ran abreast, and we set off",
+    "occurrence": 1,
+    "why": "the diligence sets off"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "No. VII.",
+    "title": "COPY OF A LETTER.",
+    "anchor": "will enjoy your stay in my beautiful land.",
+    "occurrence": 1,
+    "why": "end of Dracula's letter"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "Plate VII.",
+    "title": "THE CASTLE, BY MOONLIGHT.",
+    "anchor": "the act of pulling up the horses in the courtyard of a\nvast ruined castle,",
+    "occurrence": 1,
+    "why": "courtyard of the ruined castle"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "No. VIII.",
+    "title": "OF THE PEOPLES OF THE CARPATHIANS.",
+    "anchor": "In the population of Transylvania there are four distinct nationalities:",
+    "occurrence": 1,
+    "why": "four nationalities"
+  },
+  {
+    "ch": "ch01",
+    "novel_ch": 1,
+    "numeral": "No. IX.",
+    "title": "THE GOLDEN CROWN, BISTRITZ.",
+    "anchor": "He mumbled out that the money had been sent in a letter, and that",
+    "occurrence": 1,
+    "why": "money sent in a letter"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "No. I.",
+    "title": "COPY OF A LETTER.",
+    "anchor": "and shall take\nyour instructions in all matters.”",
+    "occurrence": 1,
+    "why": "end of Hawkins's letter"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "Plate I.",
+    "title": "THE ARRIVAL.",
+    "anchor": "the driver jumped down and held out his hand\nto assist me to alight.",
+    "occurrence": 1,
+    "why": "calèche stops at the castle"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "No. II.",
+    "title": "THE COUNT'S LIBRARY.",
+    "anchor": "so I opened another door in the room and found a sort of\nlibrary.",
+    "occurrence": 1,
+    "why": "discovery of the library"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "No. III.",
+    "title": "NOTICE.",
+    "anchor": "“You may go anywhere you wish in the castle, except where the doors are\nlocked,",
+    "occurrence": 1,
+    "why": "the Count's permission"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "Plate II.",
+    "title": "THE COUNT.",
+    "anchor": "an\nopportunity of observing him, and found him of a very marked\nphysiognomy.",
+    "occurrence": 1,
+    "why": "studying his physiognomy"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "No. IV.",
+    "title": "SUPPER.",
+    "anchor": "with some cheese\nand a salad and a bottle of old Tokay, of which I",
+    "occurrence": 1,
+    "why": "the cold supper"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "Plate III.",
+    "title": "THE LIBRARY.",
+    "anchor": "have come to know your great England; and to\nknow her is to love her.",
+    "occurrence": 1,
+    "why": "these companions have been good friends"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "No. V.",
+    "title": "OF THE HOSPITALITY OF NOBLEMEN.",
+    "anchor": "“Nay, sir, you are my guest. It is late, and my people are not\navailable.",
+    "occurrence": 1,
+    "why": "you are my guest"
+  },
+  {
+    "ch": "ch02",
+    "novel_ch": 2,
+    "numeral": "No. VI.",
+    "title": "THE CHILDREN OF THE NIGHT.",
+    "anchor": "“Listen to them--the children of the night. What music they make!”",
+    "occurrence": 1,
+    "why": "quoted verbatim"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "No. I.",
+    "title": "COPY OF A LETTER.",
+    "anchor": "“write to our friend and to any other; and say, if it will\nplease you,",
+    "occurrence": 1,
+    "why": "the Count dictates the letter"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "No. II.",
+    "title": "OF THE SZEKELYS.",
+    "anchor": "“We Szekelys have a right to be proud, for in our veins flows the blood",
+    "occurrence": 1,
+    "why": "the Szekely boast"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "No. III.",
+    "title": "BE WARNED.",
+    "anchor": "“Let me advise you, my dear young friend--nay, let me warn you with all\nseriousness,",
+    "occurrence": 1,
+    "why": "the Count's warning"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "No. IV.",
+    "title": "WHAT I SAW FROM THE WINDOW.",
+    "anchor": "I saw the whole man slowly emerge from the\nwindow and begin to crawl down",
+    "occurrence": 1,
+    "why": "crawling down the wall"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "Plate I.",
+    "title": "THE LIZARD ON THE WALL.",
+    "anchor": "move downwards with considerable\nspeed, just as a lizard moves along a wall.",
+    "occurrence": 1,
+    "why": "like a lizard"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "No. V.",
+    "title": "THE MORNING OF THE 16TH OF MAY.",
+    "anchor": "Then the horror overcame me, and I sank down unconscious.",
+    "occurrence": 1,
+    "why": "sank down unconscious"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "Plate II.",
+    "title": "THE THREE WOMEN.",
+    "anchor": "In the moonlight opposite me were three young women, ladies by\ntheir dress and manner.",
+    "occurrence": 1,
+    "why": "the three women appear"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "No. VI.",
+    "title": "THE COUNT'S FURY.",
+    "anchor": "“How dare you touch him, any of you? How dare you cast eyes on him",
+    "occurrence": 1,
+    "why": "this man belongs to me"
+  },
+  {
+    "ch": "ch03",
+    "novel_ch": 3,
+    "numeral": "Plate III.",
+    "title": "THE DREADFUL BAG.",
+    "anchor": "as she pointed to the bag which he had thrown upon the floor, and which",
+    "occurrence": 1,
+    "why": "the dreadful bag"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "No. I.",
+    "title": "THE THREE DATES.",
+    "anchor": "“The first should be June 12, the second June 19, and the third June\n29.”",
+    "occurrence": 1,
+    "why": "the three post-dates"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "No. II.",
+    "title": "A LETTER ENTRUSTED TO THE SZGANY.",
+    "anchor": "I have given the letters; I threw them through the bars of my window\nwith",
+    "occurrence": 1,
+    "why": "letters thrown to the Szgany"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "Plate I.",
+    "title": "THE BURNING OF THE LETTER.",
+    "anchor": "he calmly held letter\nand envelope in the flame of the lamp till they were",
+    "occurrence": 1,
+    "why": "letter burned in the lamp"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "No. III.",
+    "title": "AN OUTRAGE UPON FRIENDSHIP AND HOSPITALITY.",
+    "anchor": "other is a vile thing, an outrage upon friendship and hospitality!",
+    "occurrence": 1,
+    "why": "quoted verbatim"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "No. IV.",
+    "title": "THE GREAT SQUARE BOXES.",
+    "anchor": "The leiter-wagons contained great, square boxes, with handles of thick\nrope;",
+    "occurrence": 1,
+    "why": "the great square boxes"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "Plate II.",
+    "title": "THE LEITER-WAGONS.",
+    "anchor": "I hurried to the window, and saw drive into the yard two great\nleiter-wagons, each",
+    "occurrence": 1,
+    "why": "leiter-wagons in the yard"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "No. V.",
+    "title": "THE MOTHER'S CRY.",
+    "anchor": "threw herself forward, and shouted in a voice laden with menace:--",
+    "occurrence": 1,
+    "why": "give me my child"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "No. VI.",
+    "title": "THE LAST ENTRY.",
+    "anchor": "At least God’s mercy is better than that of these monsters, and the\nprecipice is",
+    "occurrence": 1,
+    "why": "the last entry"
+  },
+  {
+    "ch": "ch04",
+    "novel_ch": 4,
+    "numeral": "Plate III.",
+    "title": "THE WALL.",
+    "anchor": "I shall try to scale the castle wall\nfarther than I have yet attempted.",
+    "occurrence": 1,
+    "why": "scaling the castle wall"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "No. I.",
+    "title": "FROM MISS MINA MURRAY TO MISS LUCY WESTENRA.",
+    "anchor": "“Tell me all the news when you write. You have not told me anything for",
+    "occurrence": 1,
+    "why": "end of Mina's letter"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "No. II.",
+    "title": "FROM MISS LUCY WESTENRA TO MISS MINA MURRAY.",
+    "anchor": "“P.S.--I need not tell you this is a secret. Good-night again.",
+    "occurrence": 1,
+    "why": "end of Lucy's first letter"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "Plate I.",
+    "title": "MINA AT HER STUDIES.",
+    "anchor": "I want to keep up with Jonathan’s studies, and I have\nbeen practising shorthand very",
+    "occurrence": 1,
+    "why": "practising shorthand"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "No. III.",
+    "title": "OF THE THREE PROPOSALS.",
+    "anchor": "I am very, very happy, and I don’t know what I have done to\ndeserve",
+    "occurrence": 1,
+    "why": "after the three proposals"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "No. IV.",
+    "title": "DR. SEWARD'S PHONOGRAPH DIARY.",
+    "anchor": "R. M. Renfield, ætat 59.--Sanguine temperament; great physical strength;",
+    "occurrence": 1,
+    "why": "Renfield case notes"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "Plate II.",
+    "title": "THREE PROPOSALS IN ONE DAY.",
+    "anchor": "and to-day I have had three.\nJust fancy! THREE proposals in one day!",
+    "occurrence": 1,
+    "why": "three proposals in one day"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "No. V.",
+    "title": "FROM MR. QUINCEY P. MORRIS TO THE HON. ARTHUR HOLMWOOD.",
+    "anchor": "We shall both swear to leave you at home if you drink too deep to",
+    "occurrence": 1,
+    "why": "end of Morris's letter"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "No. VI.",
+    "title": "TELEGRAM.",
+    "anchor": "“Count me in every time. I bear messages which will make both your ears\ntingle.",
+    "occurrence": 1,
+    "why": "Arthur's telegram, quoted verbatim"
+  },
+  {
+    "ch": "ch05",
+    "novel_ch": 5,
+    "numeral": "Plate III.",
+    "title": "THE PHONOGRAPH DIARY.",
+    "anchor": "tide in appetite to-day. Cannot eat, cannot rest, so\ndiary instead. Since",
+    "occurrence": 1,
+    "why": "phonograph diary opens"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "No. I.",
+    "title": "OF WHITBY TOWN.",
+    "anchor": "This is a lovely place. The little river, the\nEsk, runs through a deep valley,",
+    "occurrence": 1,
+    "why": "the Esk at Whitby"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "No. II.",
+    "title": "MR. SWALES'S SERMON.",
+    "anchor": "an’\ntryin’ to tie up our cuts by the light of the aurora borealis.”",
+    "occurrence": 1,
+    "why": "end of the tombstone sermon"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "Plate I.",
+    "title": "THE CHURCHYARD ON THE CLIFF.",
+    "anchor": "Between it and\nthe town there is another church, the parish one, round which is",
+    "occurrence": 1,
+    "why": "the parish churchyard"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "No. III.",
+    "title": "A LINE FROM EXETER.",
+    "anchor": "yesterday dear Mr. Hawkins, who is always so kind, sent me a letter from\nhim.",
+    "occurrence": 1,
+    "why": "the line from Hawkins"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "No. IV.",
+    "title": "THE STRANGE SHIP.",
+    "anchor": "a Russian, by the look of her;\nbut she’s knocking about in the queerest way.",
+    "occurrence": 1,
+    "why": "the strange Russian ship"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "Plate II.",
+    "title": "THE STRANGE SHIP.",
+    "anchor": "He stopped to talk with me, as he always does, but all the time\nkept",
+    "occurrence": 1,
+    "why": "coastguard watches the ship"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "No. V.",
+    "title": "THE ZOOPHAGOUS PATIENT.",
+    "anchor": "and call him a zoöphagous\n(life-eating) maniac; what he desires is to absorb as many",
+    "occurrence": 1,
+    "why": "the life-eating maniac"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "No. VI.",
+    "title": "THE ANGEL OF DEATH.",
+    "anchor": "Some day soon the Angel of\nDeath will sound his trumpet for me.",
+    "occurrence": 1,
+    "why": "Swales's farewell words"
+  },
+  {
+    "ch": "ch06",
+    "novel_ch": 6,
+    "numeral": "Plate III.",
+    "title": "MR. SWALES'S FAREWELL.",
+    "anchor": "he got\nup, shook hands with me, and blessed me, and said good-bye, and hobbled",
+    "occurrence": 1,
+    "why": "Swales hobbled off"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "No. I.",
+    "title": "A MYSTERIOUS SHIP.",
+    "anchor": "I shall send, in time for your next issue, further\ndetails of the derelict ship",
+    "occurrence": 1,
+    "why": "end of the Daily Graph cutting"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "No. II.",
+    "title": "THE SEQUEL.",
+    "anchor": "It had been fighting,\nand manifestly had had a savage opponent, for its throat was",
+    "occurrence": 1,
+    "why": "the dead mastiff"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "Plate I.",
+    "title": "THE DEMETER COMES HOME.",
+    "anchor": "swept the strange schooner before the blast, with all sail set, and\ngained the safety",
+    "occurrence": 1,
+    "why": "the schooner gains the harbour"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "No. III.",
+    "title": "LOG OF THE \"DEMETER.\"",
+    "anchor": "God\nand the Blessed Virgin and the saints help a poor ignorant soul trying\nto",
+    "occurrence": 1,
+    "why": "end of the captain's log"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "Plate II.",
+    "title": "THE VOYAGE OF THE DEMETER.",
+    "anchor": "On 6 July we finished taking in cargo, silver sand and boxes of",
+    "occurrence": 1,
+    "why": "the voyage begins at Varna"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "No. IV.",
+    "title": "A PUBLIC FUNERAL.",
+    "anchor": "the captain is\nsimply a hero, and he is to be given a public funeral.",
+    "occurrence": 1,
+    "why": "a public funeral"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "No. V.",
+    "title": "AT THE FUNERAL.",
+    "anchor": "funeral of the poor sea-captain to-day was most\ntouching. Every",
+    "occurrence": 2,
+    "why": "the funeral procession"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "Plate III.",
+    "title": "THE CAPTAIN'S FUNERAL.",
+    "anchor": "the coffin\nwas carried by captains all the way from Tate Hill Pier up to",
+    "occurrence": 1,
+    "why": "carried up to the churchyard"
+  },
+  {
+    "ch": "ch07",
+    "novel_ch": 7,
+    "numeral": "No. VI.",
+    "title": "MANIFEST OF THE DERELICT.",
+    "anchor": "She is almost entirely in ballast of silver sand, with only a\nsmall amount of",
+    "occurrence": 1,
+    "why": "ballast and boxes of mould"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "No. I.",
+    "title": "THE SLEEP-WALKER.",
+    "anchor": "there, on our favourite seat, the silver light of the moon struck a\nhalf-reclining figure,",
+    "occurrence": 1,
+    "why": "Lucy on the seat"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "Plate I.",
+    "title": "THE EMPTY SEAT.",
+    "anchor": "She was quite alone, and there was not a sign of any living\nthing about.",
+    "occurrence": 1,
+    "why": "alone, no living thing"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "No. II.",
+    "title": "THE TWO LITTLE WOUNDS.",
+    "anchor": "there are\ntwo little red points like pin-pricks, and on the band of her nightdress",
+    "occurrence": 1,
+    "why": "the two little wounds"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "No. III.",
+    "title": "SISTER AGATHA'S LETTER.",
+    "anchor": "There are, I pray God and St. Joseph and Ste. Mary, many,\nmany, happy years",
+    "occurrence": 1,
+    "why": "end of Sister Agatha's letter"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "No. IV.",
+    "title": "THE BOXES OF EARTH.",
+    "anchor": "“Pray do not take us as exceeding the bounds of business courtesy in\npressing you",
+    "occurrence": 1,
+    "why": "end of Billington's letter"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "Plate II.",
+    "title": "THE FIFTY BOXES.",
+    "anchor": "“You will please deposit the boxes, fifty in number, which form the\nconsignment,",
+    "occurrence": 1,
+    "why": "fifty boxes consigned"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "No. V.",
+    "title": "THE CARRIERS' REPLY.",
+    "anchor": "Goods are\ndelivered in exact accordance with instructions, and keys left in parcel\nin main",
+    "occurrence": 1,
+    "why": "Carter, Paterson's reply"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "No. VI.",
+    "title": "THE MASTER IS AT HAND.",
+    "anchor": "“I don’t want to talk to you: you don’t count now; the Master is at",
+    "occurrence": 1,
+    "why": "the Master is at hand"
+  },
+  {
+    "ch": "ch08",
+    "novel_ch": 8,
+    "numeral": "Plate III.",
+    "title": "THE ESCAPE.",
+    "anchor": "On the\nfar side of the house I found him pressed close against the old",
+    "occurrence": 1,
+    "why": "Renfield at the chapel door"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "No. I.",
+    "title": "COPY OF A LETTER.",
+    "anchor": "I must stop, for Jonathan\nis waking--I must attend to my husband!",
+    "occurrence": 1,
+    "why": "end of Mina's letter"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "Plate I.",
+    "title": "THE HOSPITAL WEDDING.",
+    "anchor": "We are to be married in an hour, or as soon\nafter as Jonathan awakes....",
+    "occurrence": 1,
+    "why": "the wedding at Buda-Pesth"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "No. II.",
+    "title": "COPY OF A LETTER.",
+    "anchor": "So no more just at present from your loving\n\n“LUCY.",
+    "occurrence": 1,
+    "why": "end of Lucy's letter"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "No. III.",
+    "title": "EXTRACTS FROM DR. SEWARD'S DIARY.",
+    "anchor": "except a big bat, which was flapping its silent and\nghostly way to the west.",
+    "occurrence": 1,
+    "why": "the bat over the chapel"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "No. IV.",
+    "title": "COPY OF A LETTER.",
+    "anchor": "I\nam filled with anxiety, and want to consult with you alone as soon as",
+    "occurrence": 1,
+    "why": "end of Arthur's letter"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "No. V.",
+    "title": "TELEGRAM.",
+    "anchor": "“Am summoned to see my father, who is worse. Am writing.",
+    "occurrence": 1,
+    "why": "Arthur's telegram, quoted verbatim"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "No. VI.",
+    "title": "COPY OF A LETTER.",
+    "anchor": "but, if need be, I shall send you word to\ncome at once to Lucy;",
+    "occurrence": 1,
+    "why": "end of Seward's letter"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "Plate II.",
+    "title": "THE PROFESSOR SETS OUT.",
+    "anchor": "“When I have received your letter I am already coming to you.",
+    "occurrence": 1,
+    "why": "Van Helsing already coming"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "No. VII.",
+    "title": "TELEGRAMS.",
+    "anchor": "change for the worse. Come at once; do not\nlose an hour. I",
+    "occurrence": 1,
+    "why": "last of Seward's telegrams"
+  },
+  {
+    "ch": "ch09",
+    "novel_ch": 9,
+    "numeral": "Plate III.",
+    "title": "THE WARD AT BUDA-PESTH.",
+    "anchor": "the chaplain of the English mission\nchurch has been sent for.",
+    "occurrence": 1,
+    "why": "the hospital ward"
+  }
+]
