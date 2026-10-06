@@ -1,0 +1,2058 @@
+{
+ "chapters": [
+  {
+   "ch": "ch01",
+   "label": "CHAPTER ONE",
+   "title": "JONATHAN HARKER'S JOURNAL",
+   "subtitle": "3rd -- 5th May -- Bistritz to the Borgo Pass",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Cloth cover",
+     "title": "SIDE-PAPERS & EPHEMERA pertaining to Chapter the First of \"DRACULA\"",
+     "image": null
+    },
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER ONE -- JONATHAN HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "frontispiece",
+     "numeral": "Frontispiece.",
+     "title": "THE TRAVELLER'S PAPERS, AS THEY SURVIVE.",
+     "image": "frontispiece.jpg"
+    },
+    {
+     "kind": "map",
+     "numeral": "Plate I.",
+     "title": "MR. HARKER'S JOURNEY, APRIL -- MAY 1893.",
+     "image": "journey.jpg"
+    },
+    {
+     "kind": "watercolour",
+     "numeral": "Watercolour I.",
+     "title": "MUNICH -- 1ST MAY, 8:35 P.M.",
+     "image": "wc_munich.png"
+    },
+    {
+     "kind": "watercolour",
+     "numeral": "Watercolour II.",
+     "title": "VIENNA -- 2ND MAY, DAWN.",
+     "image": "wc_vienna.png"
+    },
+    {
+     "kind": "watercolour",
+     "numeral": "Watercolour III.",
+     "title": "BUDA-PESTH -- THE DANUBE.",
+     "image": "wc_budapest.png"
+    },
+    {
+     "kind": "watercolour",
+     "numeral": "Watercolour IV.",
+     "title": "KLAUSENBURG -- THE MOUNTAIN HALT.",
+     "image": "wc_klausenburg.png"
+    },
+    {
+     "kind": "watercolour",
+     "numeral": "Watercolour V.",
+     "title": "BISTRITZ -- 3RD MAY.",
+     "image": "wc_bistritz.png"
+    },
+    {
+     "kind": "watercolour",
+     "numeral": "Watercolour VI.",
+     "title": "THE BORGO PASS -- 4TH MAY, DUSK.",
+     "image": "wc_borgo.png"
+    },
+    {
+     "kind": "map",
+     "numeral": "Plate II.",
+     "title": "THE ROAD FROM BISTRITZ TO THE BORGO PASS.",
+     "image": "map.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE GOLDEN CROWN HOTEL",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE GOLDEN CROWN, BISTRITZ.",
+     "image": "inn.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "BISTRITZ AND THE BORGO PASS.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate IV.",
+     "title": "BISTRITZ, MARKET MORNING.",
+     "image": "bistritz.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "ST. GEORGE'S EVE IN TRANSYLVANIA.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE BLUE FLAMES.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate V.",
+     "title": "THE BLUE FLAMES.",
+     "image": "blue_flames.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "IMPERIAL-ROYAL PRIVILEGED POST-DILIGENCE.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate VI.",
+     "title": "THE DILIGENCE ON THE BORGO ROAD.",
+     "image": "diligence.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "COPY OF A LETTER.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate VII.",
+     "title": "THE CASTLE, BY MOONLIGHT.",
+     "image": "castle.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VIII.",
+     "title": "OF THE PEOPLES OF THE CARPATHIANS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IX.",
+     "title": "THE GOLDEN CROWN, BISTRITZ.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch02",
+   "label": "CHAPTER TWO",
+   "title": "JONATHAN HARKER'S JOURNAL",
+   "subtitle": "5th -- 7th May -- the Castle",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWO -- JONATHAN HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "COPY OF A LETTER.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE ARRIVAL.",
+     "image": "arrival.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE COUNT'S LIBRARY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "NOTICE.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE COUNT.",
+     "image": "count.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "SUPPER.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE LIBRARY.",
+     "image": "library.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "OF THE HOSPITALITY OF NOBLEMEN.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE CHILDREN OF THE NIGHT.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch03",
+   "label": "CHAPTER THREE",
+   "title": "JONATHAN HARKER'S JOURNAL",
+   "subtitle": "8th -- 16th May -- the lizard on the wall; the three women",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER THREE -- JONATHAN HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "COPY OF A LETTER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "OF THE SZEKELYS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "BE WARNED.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "WHAT I SAW FROM THE WINDOW.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE LIZARD ON THE WALL.",
+     "image": "lizard.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE MORNING OF THE 16TH OF MAY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE THREE WOMEN.",
+     "image": "brides.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE COUNT'S FURY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE DREADFUL BAG.",
+     "image": "bag.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch04",
+   "label": "CHAPTER FOUR",
+   "title": "JONATHAN HARKER'S JOURNAL",
+   "subtitle": "16th May -- 30th June -- the boxes of earth; the last entry",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER FOUR -- JONATHAN HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE THREE DATES.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "A LETTER ENTRUSTED TO THE SZGANY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE BURNING OF THE LETTER.",
+     "image": "burning.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "AN OUTRAGE UPON FRIENDSHIP AND HOSPITALITY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE GREAT SQUARE BOXES.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE LEITER-WAGONS.",
+     "image": "wagons.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE MOTHER'S CRY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE LAST ENTRY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE WALL.",
+     "image": "escape.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch05",
+   "label": "CHAPTER FIVE",
+   "title": "LETTERS -- LUCY AND MINA",
+   "subtitle": "9th -- 26th May -- three proposals in one day; the phonograph diary",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER FIVE -- LETTERS -- LUCY AND MINA",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "FROM MISS MINA MURRAY TO MISS LUCY WESTENRA.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "FROM MISS LUCY WESTENRA TO MISS MINA MURRAY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "MINA AT HER STUDIES.",
+     "image": "mina.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "OF THE THREE PROPOSALS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "DR. SEWARD'S PHONOGRAPH DIARY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THREE PROPOSALS IN ONE DAY.",
+     "image": "lucy.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "FROM MR. QUINCEY P. MORRIS TO THE HON. ARTHUR HOLMWOOD.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE PHONOGRAPH DIARY.",
+     "image": "seward.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch06",
+   "label": "CHAPTER SIX",
+   "title": "MINA MURRAY'S JOURNAL",
+   "subtitle": "24th July -- 6th August -- Whitby",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER SIX -- MINA MURRAY'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "OF WHITBY TOWN.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "MR. SWALES'S SERMON.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE CHURCHYARD ON THE CLIFF.",
+     "image": "whitby.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "A LINE FROM EXETER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE STRANGE SHIP.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE STRANGE SHIP.",
+     "image": "russian-ship.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE ZOOPHAGOUS PATIENT.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE ANGEL OF DEATH.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "MR. SWALES'S FAREWELL.",
+     "image": "swales.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch07",
+   "label": "CHAPTER SEVEN",
+   "title": "THE DEMETER",
+   "subtitle": "8th -- 10th August -- Whitby",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER SEVEN -- THE DEMETER",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "A MYSTERIOUS SHIP.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE SEQUEL.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE DEMETER COMES HOME.",
+     "image": "grounding.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "LOG OF THE \"DEMETER.\"",
+     "image": null
+    },
+    {
+     "kind": "map",
+     "numeral": "Plate II.",
+     "title": "THE VOYAGE OF THE DEMETER.",
+     "image": "voyage.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "A PUBLIC FUNERAL.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "AT THE FUNERAL.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE CAPTAIN'S FUNERAL.",
+     "image": "funeral.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "MANIFEST OF THE DERELICT.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch08",
+   "label": "CHAPTER EIGHT",
+   "title": "MINA MURRAY'S JOURNAL",
+   "subtitle": "11th -- 19th August -- Whitby",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER EIGHT -- MINA MURRAY'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE SLEEP-WALKER.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE EMPTY SEAT.",
+     "image": "empty-seat.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE TWO LITTLE WOUNDS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "SISTER AGATHA'S LETTER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE BOXES OF EARTH.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE FIFTY BOXES.",
+     "image": "boxes.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE CARRIERS' REPLY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE MASTER IS AT HAND.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE ESCAPE.",
+     "image": "renfield-chapel.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch09",
+   "label": "CHAPTER NINE",
+   "title": "LETTERS AND DR. SEWARD'S DIARY",
+   "subtitle": "24th August -- 6th September",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER NINE -- LETTERS AND DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "COPY OF A LETTER.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE HOSPITAL WEDDING.",
+     "image": "wedding.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "COPY OF A LETTER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "EXTRACTS FROM DR. SEWARD'S DIARY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "COPY OF A LETTER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "COPY OF A LETTER.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE PROFESSOR SETS OUT.",
+     "image": "vanhelsing.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "TELEGRAMS.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE WARD AT BUDA-PESTH.",
+     "image": "ward.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch10",
+   "label": "CHAPTER TEN",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "6th -- 11th September",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TEN -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "COPY OF A LETTER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "EXTRACT FROM DR. SEWARD'S DIARY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "EXTRACT FROM DR. SEWARD'S DIARY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "FROM LUCY WESTENRA'S DIARY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE NIGHT WATCH.",
+     "image": "vigil.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "EXTRACT FROM DR. SEWARD'S DIARY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "BY ORDER OF THE PROFESSOR.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE GARLIC WREATH.",
+     "image": "garlic.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "CONTINENTAL NIGHT MAIL.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE PHONOGRAPH DIARY.",
+     "image": "phonograph.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch11",
+   "label": "CHAPTER ELEVEN",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "12th -- 18th September",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER ELEVEN -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "FROM LUCY WESTENRA'S DIARY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "EXTRACT FROM DR. SEWARD'S DIARY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "\"GOD! GOD! GOD!\"",
+     "image": "despair.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "FROM \"THE PALL MALL GAZETTE,\" 18 SEPTEMBER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "NOTICE.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE EVENING PRESS.",
+     "image": "press.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "EXTRACT FROM DR. SEWARD'S DIARY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "MEMORANDUM LEFT BY LUCY WESTENRA.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "AT THE BROKEN WINDOW.",
+     "image": "window.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch12",
+   "label": "CHAPTER TWELVE",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "18th -- 22nd September -- Hillingham",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWELVE -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE HOUSE OF DEATH.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE ARRIVAL AT HILLINGHAM.",
+     "image": "arrival.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "LETTER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "REPORT OF THE CARRIERS' BOXES.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE GREAT WOODEN BOXES.",
+     "image": "carriers.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "EPITAPH.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE NIGHT WATCH.",
+     "image": "nightwatch.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch13",
+   "label": "CHAPTER THIRTEEN",
+   "title": "DR. SEWARD'S DIARY -- CONTINUED",
+   "subtitle": "22nd -- 25th September",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER THIRTEEN -- DR. SEWARD'S DIARY -- CONTINUED",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE FUNERAL.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE MEMORANDUM.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE CRUCIFIX.",
+     "image": "crucifix.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE UNDERTAKER'S BILL.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE STRANGER IN PICCADILLY.",
+     "image": "piccadilly.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE SOLICITOR.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE STRANGER IN PICCADILLY.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE \"BLOOFER LADY.\"",
+     "image": "blooferlady.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "THE HAMPSTEAD MYSTERY.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch14",
+   "label": "CHAPTER FOURTEEN",
+   "title": "MINA HARKER'S JOURNAL",
+   "subtitle": "23rd -- 26th September -- Exeter",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER FOURTEEN -- MINA HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE TYPEWRITER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "LETTER.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE TYPEWRITER.",
+     "image": "typewriter.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE INTERVIEW.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE PROFESSOR.",
+     "image": "professor.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "LETTER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE HUNT BEGINS.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "'MEIN GOTT! SO SOON!'",
+     "image": "gazette.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch15",
+   "label": "CHAPTER FIFTEEN",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "27th -- 29th September -- the bloofer lady",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER FIFTEEN -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "A SUMMONS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "AT THE NORTH HOSPITAL.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE CHILD AT THE NORTH HOSPITAL.",
+     "image": "hospital.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "CAUTION TO PARENTS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "JACK STRAW'S CASTLE.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE WHITE STREAK.",
+     "image": "churchyard.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE EMPTY COFFIN.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "NOTE LEFT BY VAN HELSING IN HIS PORTMANTEAU.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE SOLITARY WATCH.",
+     "image": "watch.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "A SUMMONS TO THE BERKELEY.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch16",
+   "label": "CHAPTER SIXTEEN",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "29th -- 30th September -- the staking of Lucy",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER SIXTEEN -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE SEALING OF THE TOMB.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "HER WORDS.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE SEALING.",
+     "image": "sealing.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "THE DEED.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE PROFESSOR'S BAG.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE MERCY-BEARING STAKE.",
+     "image": "deed.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "FORGIVEN.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "AMSTERDAM.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "PEACE AT LAST.",
+     "image": "peace.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch17",
+   "label": "CHAPTER SEVENTEEN",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "29th -- 30th September -- the papers in order",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER SEVENTEEN -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "FROM MRS. HARKER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "TO THE HOUSEKEEPER.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE MEETING AT PADDINGTON.",
+     "image": "paddington.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "THE PHONOGRAPH DIARY.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE FIFTY BOXES.",
+     "image": null
+    },
+    {
+     "kind": "map",
+     "numeral": "Plate II.",
+     "title": "THE VOYAGE OF THE BOXES.",
+     "image": "boxes.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "NOTICE TO THE ATTENDANTS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE BROTHERHOOD.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE CHRONICLE IN MANIFOLD.",
+     "image": "typewriter.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "ALL IN ORDER.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch18",
+   "label": "CHAPTER EIGHTEEN",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "30th September -- 1st October -- the Council",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER EIGHTEEN -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "A REQUEST.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE VISIT.",
+     "image": "renfield_mina.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE SOLEMN COMPACT.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "FROM PROFESSOR ARMINIUS.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE SOLEMN COMPACT.",
+     "image": "compact.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "OF THE POWERS AND THE LIMITS OF THE VAMPIRE.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "FOR MADAM MINA.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE PLEA.",
+     "image": "plea.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE MIDNIGHT PLEA.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch19",
+   "label": "CHAPTER NINETEEN",
+   "title": "JONATHAN HARKER'S JOURNAL",
+   "subtitle": "1st -- 2nd October -- Carfax",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER NINETEEN -- JONATHAN HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE ENTERING OF CARFAX.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "ACCOUNT OF THE EARTH-BOXES.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE CHAPEL AT CARFAX.",
+     "image": "chapel.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "THE FACE IN THE PASSAGE.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE MIST.",
+     "image": "mist.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "RESOLUTION.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE OLD FOOL VAN HELSING.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE PROFESSOR'S LECTURE.",
+     "image": "lecture.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE PILLAR OF CLOUD.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "2ND OCTOBER, 10 P.M.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch20",
+   "label": "CHAPTER TWENTY",
+   "title": "JONATHAN HARKER'S JOURNAL",
+   "subtitle": "1st -- 2nd October -- the Lairs",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWENTY -- JONATHAN HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "MITCHELL, SONS & CANDY TO LORD GODALMING.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE CARRIERS' MEN.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE CARRIER'S MAN.",
+     "image": "smollet.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "THE CARRIER'S WAYBILL.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "No. 347, PICCADILLY.",
+     "image": null
+    },
+    {
+     "kind": "map",
+     "numeral": "Plate II.",
+     "title": "THE LAIRS.",
+     "image": "lairs_map.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "OF SOULS AND DRINKING.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "ORDERS FOR TO-MORROW.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "NO. 347, PICCADILLY.",
+     "image": "piccadilly.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch21",
+   "label": "CHAPTER TWENTY-ONE",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "12th -- 13th October -- the Asylum",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWENTY-ONE -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE ACCIDENT IN THE NIGHT.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "RENFIELD'S CONFESSION.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "NOTICE TO THE STAFF.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE EMPTY CELL.",
+     "image": "cell.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "MIDNIGHT IN THE HARKERS' ROOM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "MRS. HARKER'S DECLARATION.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE WAFER.",
+     "image": "wafer.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE MARK OF THE WAFER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "UNDERTAKER'S ACCOUNT.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE LAST OF RENFIELD.",
+     "image": "funeral.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch22",
+   "label": "CHAPTER TWENTY-TWO",
+   "title": "JONATHAN HARKER'S JOURNAL",
+   "subtitle": "13th -- 14th October -- the pursuit is resolved",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWENTY-TWO -- JONATHAN HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE TRANCE AT DAWN.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE TRANCE AT SUNSET.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE TRANCE.",
+     "image": "trance.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "AT LLOYD'S.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE MAN IN THE STRAW HAT.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE CZARINA CATHERINE.",
+     "image": "czarina.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "EXPECTED PASSAGE OF THE CZARINA CATHERINE.",
+     "image": null
+    },
+    {
+     "kind": "map",
+     "numeral": "Plate III.",
+     "title": "THE TWO ROADS TO VARNA.",
+     "image": "routes.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "VAN HELSING TO HARKER.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch23",
+   "label": "CHAPTER TWENTY-THREE",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "14th -- 15th October -- the chase begins",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWENTY-THREE -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "NEWS FROM LLOYD'S.",
+     "image": "lloyds.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "FROM MINA HARKER'S JOURNAL.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "WAITING AT VARNA.",
+     "image": "waiting.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE PLAN OF ATTACK.",
+     "image": null
+    },
+    {
+     "kind": "map",
+     "numeral": "Plate III.",
+     "title": "THE BLACK SEA.",
+     "image": "blacksea.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "OUTFITTER'S ACCOUNT.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch24",
+   "label": "CHAPTER TWENTY-FOUR",
+   "title": "DR. SEWARD'S PHONOGRAPH DIARY, SPOKEN BY VAN HELSING",
+   "subtitle": "4th -- 6th October",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWENTY-FOUR -- DR. SEWARD'S PHONOGRAPH DIARY, SPOKEN BY VAN HELSING",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "MESSAGE FROM DR. VAN HELSING.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE SEARCH FOR THE SHIP.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE CZARINA CATHERINE.",
+     "image": "czarina.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "EXPENSES OF THE INQUIRY AT THE DOCKS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "SAILINGS FOR THE BLACK SEA.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "DOOLITTLE'S WHARF.",
+     "image": "wharf.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "THE MAN-EATER.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "A PROMISE.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE PROMISE.",
+     "image": "promise.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "MR. HARKER'S WILL.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch25",
+   "label": "CHAPTER TWENTY-FIVE",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "11th -- 28th October",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWENTY-FIVE -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE OATH.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE OATH.",
+     "image": "oath.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "A WEEK OF WAITING.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE HYPNOTIC REPORT.",
+     "image": "trance.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "HOTEL ODESSUS, VARNA.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "THE KUKRI.",
+     "image": "kukri.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "OF THE CRIMINAL TYPE.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch26",
+   "label": "CHAPTER TWENTY-SIX",
+   "title": "DR. SEWARD'S DIARY",
+   "subtitle": "29th October -- 4th November",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWENTY-SIX -- DR. SEWARD'S DIARY",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "TELEGRAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE AGENTS AT GALATZ.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE RECEIPT.",
+     "image": "hildesheim.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "MURDER IN ST. PETER'S CHURCHYARD.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE STEAM LAUNCH.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE STEAM LAUNCH.",
+     "image": "launch.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "MRS. HARKER'S MEMORANDUM.",
+     "image": null
+    },
+    {
+     "kind": "map",
+     "numeral": "Plate III.",
+     "title": "THE RIVERS.",
+     "image": "map.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "ORDERS FOR THE PURSUIT.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VII.",
+     "title": "OUTFIT AT VERESTI.",
+     "image": null
+    }
+   ]
+  },
+  {
+   "ch": "ch27",
+   "label": "CHAPTER TWENTY-SEVEN",
+   "title": "MINA HARKER'S JOURNAL",
+   "subtitle": "1st -- 6th November",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "CHAPTER TWENTY-SEVEN -- MINA HARKER'S JOURNAL",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE ROAD TO THE PASS.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE CIRCLE.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE HOLY CIRCLE.",
+     "image": "circle.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "COME, SISTER. COME TO US!",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "THE CHAPEL.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE CASTLE GATE.",
+     "image": "castle_gate.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "A FAREWELL.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "SUNSET.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "SUNSET ON THE BORGO ROAD.",
+     "image": "sunset.jpg"
+    }
+   ]
+  },
+  {
+   "ch": "ch28",
+   "label": "NOTE",
+   "title": "JONATHAN HARKER'S NOTE",
+   "subtitle": "7th November -- seven years after",
+   "items": [
+    {
+     "kind": "cover",
+     "numeral": "Chapter cover",
+     "title": "NOTE -- JONATHAN HARKER'S NOTE",
+     "image": "cover.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. I.",
+     "title": "THE RETURN.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. II.",
+     "title": "THE PAPERS.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate I.",
+     "title": "THE CASTLE STANDS.",
+     "image": "castle.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. III.",
+     "title": "IN MEMORIAM.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. IV.",
+     "title": "DR. VAN HELSING'S MEMORANDUM.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate II.",
+     "title": "THE CURSE HAS PASSED.",
+     "image": "scar.jpg"
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. V.",
+     "title": "TO OUR SON.",
+     "image": null
+    },
+    {
+     "kind": "doc",
+     "numeral": "No. VI.",
+     "title": "THE END.",
+     "image": null
+    },
+    {
+     "kind": "plate",
+     "numeral": "Plate III.",
+     "title": "LITTLE QUINCEY.",
+     "image": "quincey.jpg"
+    }
+   ]
+  }
+ ]
+}
