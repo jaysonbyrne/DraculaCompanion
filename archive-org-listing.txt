@@ -1,0 +1,42 @@
+ARCHIVE.ORG LISTING — The Dracula Companion
+================================================
+
+Identifier (must be unique on archive.org; check availability):
+  dracula-companion-ephemera-plates
+
+Title:
+  The Dracula Companion — Period Ephemera & Painted Plates for Bram Stoker's Dracula
+
+Creator:
+  [your name]
+
+Description:
+  A companion volume to Bram Stoker's Dracula, built chapter by chapter across
+  a first reading of the novel. It opens with "Of the Papers" — a sumptuous
+  catalogue of the novel's in-world source documents (Harker's travel notebook,
+  Mina's journal, Seward's phonograph cylinders, Lucy's letters, the Demeter's
+  log, the newspaper cuttings, the telegrams, Van Helsing's casebook), each
+  with a mock artifact photograph — followed by a large numbered map of the
+  whole journey with map notes keyed to the chapters.
+
+  For each of the novel's 28 chapters: a packet of documents in the style of
+  1893 print — hotel notices, guidebook extracts, pamphlets, broadsides,
+  diligence timetables, transcribed letters, itemized bills, newspaper
+  cuttings, telegrams — plus oil-painting-style plates and antique-style maps,
+  all set in a red-cloth, crimson-and-gold design.
+
+  Stoker's novel (1897) is in the public domain; every document and illustration
+  in this companion is newly made for it. Read it alongside the novel, chapter
+  by chapter — or browse it as a cabinet of Victorian curiosities.
+
+  415 pages. A5 format.
+
+Subject tags (comma-separated on archive.org):
+  Dracula, Bram Stoker, Gothic fiction, horror fiction, Victorian literature,
+  ephemera, illustrated books, literary companion
+
+License / rights statement (pick one before posting):
+  - "The companion's original documents and illustrations are released under
+     CC BY-NC 4.0. Bram Stoker's Dracula (1897) is in the public domain."
+  - Or simply: "All original companion materials by [your name]; Stoker's text
+     is public domain."

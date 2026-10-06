@@ -1,0 +1,123 @@
+# -*- coding: latin-1 -*-
+"""Chapter 3 content for the Dracula companion. Grounded in the Project
+Gutenberg text of Dracula (Ch. III: Harker's Journal, 8th May -- 16th May)."""
+CHAPTER = {
+    "number": 3,
+    "label": "CHAPTER THREE",
+    "title": "JONATHAN HARKER'S JOURNAL",
+    "subtitle": "8th -- 16th May -- the lizard on the wall; the three women",
+    "epigraph": '"This man belongs to me! Beware how you meddle with him, or you\'ll have to deal with me."',
+    "docs": [
+        {
+            "num": "No. I.",
+            "title": "COPY OF A LETTER.",
+            "subtitle": "From Jonathan Harker to Mr. Peter Hawkins, Exeter; written 12th May at the Castle, for the Count's own hand to post -- and, as Mr. Harker well knows, for the Count's own eye to read.",
+            "style": "letter",
+            "opening": [
+                "My dear Mr. Hawkins, --",
+            ],
+            "paras": [
+                "I write only a formal line, as you will understand, but I would not have you want for news of me. I am well, and the business here goes forward steadily; the Count is most particular in his inquiries, and nothing is left undone that care can compass.",
+                "At his earnest desire I am to stay with him yet a month from now, that every matter may be settled to his satisfaction before I return. I beg you will not be anxious on my account, and will tell Mina that I am quite well, and think of her constantly.",
+                "I shall write again when there is more to tell. Business, as the Count says, is the only subject proper to a letter.",
+            ],
+            "signoff": "-- Your obedient servant,",
+            "signature": "JONATHAN HARKER.",
+        },
+        {
+            "num": "No. II.",
+            "title": "OF THE SZEKELYS.",
+            "subtitle": "What the Count said at midnight, 12th May; taken down by Mr. Harker as nearly as he could set it down.",
+            "style": "prose",
+            "paras": [
+                "I asked him a few questions on Transylvania history, and he warmed to the subject wonderfully. In his speaking of things and people, and especially of battles, he spoke as if he had been present at them all. Whenever he spoke of his house he always said \"we,\" and spoke almost in the plural, like a king speaking.",
+                "\"We Szekelys have a right to be proud, for in our veins flows the blood of many brave races who fought as the lion fights, for lordship. Fools, fools! What devil or what witch was ever so great as Attila, whose blood is in these veins?\" He held up his arms.",
+                "He told of the bloody sword, and of the shame of Cassova, and of one of his own race who as Voivode crossed the Danube and beat the Turk on his own ground. \"This was a Dracula indeed!\" And he walked about the room pulling his great white moustache, and grasping anything on which he laid his hands as though he would crush it by main strength.",
+                "\"The warlike days are over. Blood is too precious a thing in these days of dishonourable peace; and the glories of the great races are as a tale that is told.\" It was by this time close on morning, and we went to bed.",
+            ],
+        },
+        {
+            "num": "No. III.",
+            "title": "BE WARNED.",
+            "subtitle": "The Count's words to Mr. Harker, 12th May; the Count motioned with his hands as if he were washing them.",
+            "style": "notice",
+            "lead": "SHOULD SLEEP OVERCOME YOU, HASTE TO YOUR OWN CHAMBER.",
+            "paras": [
+                "Let me warn you with all seriousness, that should you leave these rooms you will not by any chance go to sleep in any other part of the castle. It is old, and has many memories, and there are bad dreams for those who sleep unwisely.",
+                "Should sleep now or ever overcome you, or be like to do, then haste to your own chamber or to these rooms, for your rest will then be safe. But if you be not careful in this respect, then --",
+                "(Here the speaker finished his speech in a gruesome way, for he motioned with his hands as if he were washing them. Mr. Harker quite understood.)",
+            ],
+        },
+        {
+            "num": "No. IV.",
+            "title": "WHAT I SAW FROM THE WINDOW.",
+            "subtitle": "12th May, after midnight; the Count's own window, a storey below.",
+            "style": "prose",
+            "paras": [
+                "What I saw was the Count's head coming out from the window. I did not see the face, but I knew the man by the neck and the movement of his back and arms. In any case I could not mistake the hands which I had had so many opportunities of studying.",
+                "But my very feelings changed to repulsion and terror when I saw the whole man slowly emerge from the window and begin to crawl down the castle wall over that dreadful abyss, face down, with his cloak spreading out around him like great wings.",
+                "I saw the fingers and toes grasp the corners of the stones, worn clear of the mortar by the stress of years, and by thus using every projection and inequality move downwards with considerable speed, just as a lizard moves along a wall.",
+                "What manner of man is this, or what manner of creature is it in the semblance of man? I feel the dread of this horrible place overpowering me; I am in fear -- in awful fear -- and there is no escape for me.",
+            ],
+        },
+        {
+            "num": "No. V.",
+            "title": "THE MORNING OF THE 16TH OF MAY.",
+            "subtitle": "From Mr. Harker's journal; written in the broad, full sunlight of the morning, that he might believe his own eyes.",
+            "style": "prose",
+            "paras": [
+                "I was not alone. In the moonlight opposite me were three young women, ladies by their dress and manner. I thought at the time that I must be dreaming when I saw them, for, though the moonlight was behind them, they threw no shadow on the floor.",
+                "Two were dark, and had high aquiline noses, like the Count, and great dark, piercing eyes that seemed to be almost red. The other was fair, as fair as can be, with great wavy masses of golden hair and eyes like pale sapphires. All three had brilliant white teeth that shone like pearls against the ruby of their voluptuous lips.",
+                "They whispered together, and then they all three laughed -- such a silvery, musical laugh, but as hard as though the sound never could have come through the softness of human lips. One said: \"Go on! You are first, and we shall follow; yours is the right to begin.\" The other added: \"He is young and strong; there are kisses for us all.\"",
+                "The fair girl advanced and bent over me till I could feel the movement of her breath upon me. Lower and lower went her head as the lips went below the range of my mouth and chin and seemed about to fasten on my throat. I could feel the soft, shivering touch of the lips on the super-sensitive skin of my throat, and the hard dents of two sharp teeth, just touching and pausing there. I closed my eyes in a languorous ecstasy and waited -- waited with beating heart.",
+                "But at that instant I was conscious of the presence of the Count, and of his being as if lapped in a storm of fury. With a fierce sweep of his arm, he hurled the woman from him, and motioned to the others as though he were beating them back; it was the same imperious gesture that I had seen used to the wolves.",
+                "Then one of the women pointed to the bag which he had thrown upon the floor, and which moved as though there were some living thing within it. If my ears did not deceive me there was a gasp and a low wail, as of a half-smothered child. The women closed round, whilst I was aghast with horror; but as I looked they disappeared, and with them the dreadful bag. Then the horror overcame me, and I sank down unconscious.",
+            ],
+        },
+        {
+            "num": "No. VI.",
+            "title": "THE COUNT'S FURY.",
+            "subtitle": "His words, in a voice which, though low and almost in a whisper, seemed to cut through the air.",
+            "style": "broadside",
+            "display": "goth",
+            "paras": [
+                "How dare you touch him, any of you?",
+                "How dare you cast eyes on him",
+                "when I had forbidden it?",
+                "Back, I tell you all!",
+                "This man belongs to me!",
+                "Beware how you meddle with him,",
+                "or you'll have to deal with me.",
+                "--",
+                "When I am done with him",
+                "you shall kiss him at your will.",
+            ],
+        },
+    ],
+    "plates": [
+        {
+            "after_doc": 3,
+            "file": "plates/lizard.jpg",
+            "numeral": "Plate I.",
+            "title": "THE LIZARD ON THE WALL.",
+            "caption": "Face down, his cloak spreading like great wings, he crawled the castle wall \"just as a lizard moves along a wall.\"",
+            "prompt": "19th century oil painting, vertical portrait composition: a tall man in a long black cloak crawling face-down down the sheer stone wall of a ruined Carpathian castle at night, exactly two hands with anatomically correct fingers gripping the worn stones, his cloak spreading out around him like great wings, a dreadful moonlit abyss below. Deeply atmospheric, Victorian book-illustration style. No text, no watermark.",
+        },
+        {
+            "after_doc": 4,
+            "file": "plates/brides.jpg",
+            "numeral": "Plate II.",
+            "title": "THE THREE WOMEN.",
+            "caption": "They came close and looked at him; though the moonlight was behind them, they threw no shadow on the floor.",
+            "prompt": "19th century oil painting, vertical portrait composition: three beautiful young women with long dark and golden hair in white gowns standing in brilliant moonlight in a dusty old castle chamber, a fair golden-haired girl bending over a sleeping young man on a couch, her red lips near his throat, no shadows cast on the floor. Eerie and voluptuous, Victorian book-illustration style. No text, no watermark.",
+        },
+        {
+            "after_doc": 5,
+            "file": "plates/bag.jpg",
+            "numeral": "Plate III.",
+            "title": "THE DREADFUL BAG.",
+            "caption": "It moved as though there were some living thing within it; and there was a gasp and a low wail, as of a half-smothered child.",
+            "prompt": "19th century oil painting, vertical portrait composition: a worn old leather travel bag lying on the stone floor of a ruined castle chamber in brilliant moonlight, the bag's shape disturbed as if something were stirring within it, dust motes in the moonbeams, a dark window beyond. Foreboding and uncanny, Victorian book-illustration style. No text, no watermark.",
+        },
+    ],
+}

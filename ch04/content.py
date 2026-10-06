@@ -1,0 +1,123 @@
+# -*- coding: latin-1 -*-
+"""Chapter 4 content for the Dracula companion. Grounded in the Project
+Gutenberg text of Dracula (Ch. IV: Harker's Journal, 16th May -- 30th June)."""
+CHAPTER = {
+    "number": 4,
+    "label": "CHAPTER FOUR",
+    "title": "JONATHAN HARKER'S JOURNAL",
+    "subtitle": "16th May -- 30th June -- the boxes of earth; the last entry",
+    "epigraph": '"I know now the span of my life. God help me!"',
+    "docs": [
+        {
+            "num": "No. I.",
+            "title": "THE THREE DATES.",
+            "subtitle": "19th May; the Count in his suavest tones.",
+            "style": "prose",
+            "paras": [
+                "Last night the Count asked me in the suavest tones to write three letters, one saying that my work here was nearly done, and that I should start for home within a few days, another that I was starting on the next morning from the time of the letter, and the third that I had left the castle and arrived at Bistritz.",
+                "I would fain have rebelled, but felt that in the present state of things it would be madness to quarrel openly with the Count whilst I am so absolutely in his power. He explained to me that posts were few and uncertain, and that my writing now would ensure ease of mind to my friends; and he assured me with so much impressiveness that he would countermand the later letters, which would be held over at Bistritz until due time, that to oppose him would have been to create new suspicion.",
+                "I therefore pretended to fall in with his views, and asked him what dates I should put on the letters. He calculated a minute, and then said: \"The first should be June 12, the second June 19, and the third June 29.\"",
+                "I know now the span of my life. God help me!",
+            ],
+        },
+        {
+            "num": "No. II.",
+            "title": "A LETTER ENTRUSTED TO THE SZGANY.",
+            "subtitle": "28th May; thrown with a gold piece through the bars of the prisoner's window, to a gipsy of the courtyard. The Count afterwards returned this letter, unsealed, saying: \"Your letters are sacred to me.\"",
+            "style": "letter",
+            "opening": [
+                "My dear Mr. Hawkins, --",
+            ],
+            "paras": [
+                "I write in haste, by a hand I cannot name, and I pray you will have this posted, and will forgive the strangeness of its coming. I am well in body, but I am a prisoner in this castle, and I know not how long I may yet live.",
+                "I dare write no more than this, for the Count's eye is everywhere. I beg you, on our long friendship, to communicate with Miss Mina Murray at once, and to tell her that I am detained here on business, and that she is not to be anxious -- no, I cannot ask you to tell her that; tell her only that I love her, and that she must be brave.",
+                "Burn this when you have read it. Trust no post that passes through this house.",
+            ],
+            "signoff": "-- Your faithful and affectionate",
+            "signature": "JONATHAN HARKER.",
+        },
+        {
+            "num": "No. III.",
+            "title": "AN OUTRAGE UPON FRIENDSHIP AND HOSPITALITY.",
+            "subtitle": "The Count's words, 28th May, holding letter and envelope in the flame of the lamp till they were consumed.",
+            "style": "broadside",
+            "paras": [
+                "The Szgany has given me these,",
+                "of which, though I know not whence they come,",
+                "I shall, of course, take care.",
+                "See! -- one is from you, and to my friend Peter Hawkins;",
+                "the other --",
+                "the other is a vile thing,",
+                "an outrage upon friendship and hospitality!",
+                "It is not signed.",
+                "Well! so it cannot matter to us.",
+            ],
+        },
+        {
+            "num": "No. IV.",
+            "title": "THE GREAT SQUARE BOXES.",
+            "subtitle": "17th June -- 25th June; what the Slovaks brought, and what Mr. Harker found in the ruined chapel.",
+            "style": "prose",
+            "paras": [
+                "With joy I hurried to the window, and saw drive into the yard two great leiter-wagons, each drawn by eight sturdy horses. The leiter-wagons contained great, square boxes, with handles of thick rope; these were evidently empty by the ease with which the Slovaks handled them, and by their resonance as they were roughly moved.",
+                "On the 25th of June I climbed from my window along the castle wall and went in by the Count's window. At one corner of his room was a heavy door, open, which led through a stone passage to a circular stairway, which went steeply down. At the bottom there was a dark, tunnel-like passage, through which came a deathly, sickly odour, the odour of old earth newly turned.",
+                "At last I pulled open a heavy door which stood ajar, and found myself in an old, ruined chapel, which had evidently been used as a graveyard. The ground had recently been dug over, and the earth placed in great wooden boxes, manifestly those which had been brought by the Slovaks.",
+                "In the third of the vaults I made a discovery. There, in one of the great boxes, of which there were fifty in all, on a pile of newly dug earth, lay the Count! He was either dead or asleep, I could not say which -- for the eyes were open and stony, but without the glassiness of death -- and the cheeks had the warmth of life through all their pallor; the lips were as red as ever. But there was no sign of movement, no pulse, no breath, no beating of the heart.",
+            ],
+        },
+        {
+            "num": "No. V.",
+            "title": "THE MOTHER'S CRY.",
+            "subtitle": "24th June, before morning; heard from the window of the prisoner's chamber.",
+            "style": "broadside",
+            "paras": [
+                "Monster, give me my child!",
+                "--",
+                "There was no cry from the woman,",
+                "and the howling of the wolves was but short.",
+                "Before long they streamed away singly,",
+                "licking their lips.",
+            ],
+        },
+        {
+            "num": "No. VI.",
+            "title": "THE LAST ENTRY.",
+            "subtitle": "30th June, morning; these may be the last words Mr. Harker ever writes.",
+            "style": "prose",
+            "paras": [
+                "I went through the door in the corner and down the winding stair and along the dark passage to the old chapel. I knew now well enough where to find the monster I sought. I raised the lid of the great box, and saw something which filled my very soul with horror.",
+                "There lay the Count, but looking as if his youth had been half renewed, for the white hair and moustache were changed to dark iron-grey; the cheeks were fuller, and the white skin seemed ruby-red underneath; the mouth was redder than ever, for on the lips were gouts of fresh blood, which trickled from the corners of the mouth and ran over the chin and neck. He lay like a filthy leech, exhausted with his repletion.",
+                "A terrible desire came upon me to rid the world of such a monster. I seized a shovel which the workmen had been using to fill the cases, and lifting it high, struck, with the edge downward, at the hateful face. But as I did so the head turned, and the eyes fell full upon me, with all their blaze of basilisk horror.",
+                "As I write there is in the passage below a sound of many tramping feet and the crash of weights being set down heavily, doubtless the boxes, with their freight of earth. There is a sound of hammering; it is the box being nailed down.",
+                "I am alone in the castle with those awful women. Faugh! Mina is a woman, and there is nought in common. They are devils of the Pit! I shall not remain alone with them; I shall try to scale the castle wall farther than I have yet attempted.",
+                "And then away for home! away to the quickest and nearest train! away from this cursed spot, from this cursed land, where the devil and his children still walk with earthly feet! At least God's mercy is better than that of these monsters, and the precipice is steep and high. At its foot a man may sleep -- as a man. Good-bye, all! Mina!",
+            ],
+        },
+    ],
+    "plates": [
+        {
+            "after_doc": 1,
+            "file": "plates/burning.jpg",
+            "numeral": "Plate I.",
+            "title": "THE BURNING OF THE LETTER.",
+            "caption": "\"It is not signed. Well! so it cannot matter to us.\" -- He calmly held letter and envelope in the flame of the lamp till they were consumed.",
+            "prompt": "19th century oil painting, vertical portrait composition: a tall old man in black holding a letter and its envelope in the flame of an oil lamp in a lamplit castle study, calmly watching it burn, a dark wicked look in his eyes. Sinister and intimate, Victorian book-illustration style. No text, no watermark.",
+        },
+        {
+            "after_doc": 3,
+            "file": "plates/wagons.jpg",
+            "numeral": "Plate II.",
+            "title": "THE LEITER-WAGONS.",
+            "caption": "Two great leiter-wagons, each drawn by eight sturdy horses; and in them great, square boxes, with handles of thick rope.",
+            "prompt": "19th century oil painting, vertical portrait composition: two great wooden leiter-wagons drawn by teams of sturdy horses arriving at night in the stone courtyard of a ruined Carpathian castle, great square wooden boxes with thick rope handles being unloaded by Slovak drivers in wide hats and sheepskins, moonlight on the broken battlements. Atmospheric, Victorian book-illustration style. No text, no watermark.",
+        },
+        {
+            "after_doc": 5,
+            "file": "plates/escape.jpg",
+            "numeral": "Plate III.",
+            "title": "THE WALL.",
+            "caption": "\"I shall try to scale the castle wall farther than I have yet attempted... Good-bye, all! Mina!\"",
+            "prompt": "19th century oil painting, vertical portrait composition: a young man in Victorian travelling clothes climbing barefoot along a narrow stone ledge on the sheer outer wall of a ruined Carpathian castle at dawn, a dreadful abyss below, jagged mountains and morning light beyond. Daring and hopeful, Victorian book-illustration style. No text, no watermark.",
+        },
+    ],
+}

@@ -1,0 +1,23 @@
+# Built PDFs — rebuild with build_master.py; the 100MB+ masters live as
+# release assets / on the Internet Archive, not in git.
+dracula_companion_*.pdf
+ch*/dracula_ch*.pdf
+ancient/_ancient.pdf
+_hands.pdf
+_specimen.pdf
+
+# Byte-compiled Python
+__pycache__/
+*.pyc
+
+# Image-generation intermediates (prompts live in content.py; only the
+# finished plates are tracked)
+media-generation-*.json
+media-generation-*.png
+
+# Unused experiments and local notes
+dioramas/
+toc_fixed_preview.png
+inventory.json
+
+.DS_Store
