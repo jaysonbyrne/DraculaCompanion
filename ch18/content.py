@@ -1,0 +1,166 @@
+# -*- coding: latin-1 -*-
+"""Chapter 18 content for the Dracula companion.
+
+30 Sept. -- 1 Oct. Seward's diary: Mina visits Renfield; Van Helsing
+arrives; the nine-o'clock council -- Van Helsing's lecture on the
+vampire, the solemn compact, Mina's exclusion; Seward's diary, 1 Oct.
+4 a.m.: Renfield's midnight plea for release.
+"""
+CHAPTER = {
+    "number": 18,
+    "label": "CHAPTER EIGHTEEN",
+    "title": "DR. SEWARD'S DIARY",
+    "subtitle": "30th September -- 1st October -- the Council",
+    "epigraph": '"Good-bye, my dear. I pray God I may never see your sweet face again."',
+    "docs": [
+        {
+            "num": "No. I.",
+            "title": "A REQUEST.",
+            "subtitle": "From Dr. Seward's diary, 30th September; Mrs. Harker is shown the patient.",
+            "style": "prose",
+            "paras": [
+                "Lord Godalming and Mr. Morris had not only arrived, but had already studied the transcript of the various diaries and letters which Harker and his wonderful wife had made and arranged. Mrs. Harker gave us a cup of tea, and I can honestly say that, for the first time since I have lived in it, this old house seemed like home.",
+                "When we had finished, Mrs. Harker said: \"Dr. Seward, may I ask a favour? I want to see your patient, Mr. Renfield. Do let me see him. What you have said of him in your diary interests me so much!\" She looked so appealing and so pretty that I could not refuse her.",
+                "When I told the man that a lady would like to see him, he said only, \"Why?\" -- and then, \"Oh, very well; let her come in, by all means; but just wait a minute till I tidy up the place.\" His method of tidying was peculiar: he simply swallowed all the flies and spiders in the boxes before I could stop him.",
+                "She walked over to him, smiling pleasantly, and held out her hand. \"Good-evening, Mr. Renfield,\" said she. \"You see, I know you, for Dr. Seward has told me of you.\" He eyed her all over intently, with wonder, which merged in doubt; and then, to my intense astonishment, he said: \"You're not the girl the doctor wanted to marry, are you? You can't be, you know, for she's dead.\"",
+                "\"Oh no! I have a husband of my own,\" said Mrs. Harker. \"I am Mrs. Harker.\" -- \"Then what are you doing here?\" -- \"My husband and I are staying on a visit with Dr. Seward.\" -- \"Then don't stay.\"",
+                "Seeing that he was seemingly quite reasonable, she ventured to lead him to his favourite topic; and he addressed himself to it with the impartiality of the completest sanity. \"Why, I myself am an instance of a man who had a strange belief,\" said he. \"I used to fancy that life was a positive and perpetual entity, and that by consuming a multitude of live things, no matter how low in the scale of creation, one might indefinitely prolong life. At times I held the belief so strongly that I actually tried to take human life. The doctor here will bear me out that on one occasion I tried to kill him for the purpose of strengthening my vital powers by the assimilation with my own body of his life through the medium of his blood -- relying, of course, upon the Scriptural phrase, 'For the blood is the life.'\"",
+                "It was hard to imagine that I had seen him eat up his spiders and flies not five minutes before. When it was time to leave, she said pleasantly: \"Good-bye, and I hope I may see you often, under auspices pleasanter to yourself\"; to which, to my astonishment, he replied: \"Good-bye, my dear. I pray God I may never see your sweet face again. May He bless and keep you!\"",
+            ],
+        },
+        {
+            "num": "No. II.",
+            "title": "THE SOLEMN COMPACT.",
+            "subtitle": "Made in Dr. Seward's study, 30th September, after the council had heard all.",
+            "style": "broadside",
+            "paras": [
+                "We are face to face with duty;",
+                "and in such case must we shrink?",
+                "For me, I say, no.",
+                "",
+                "\"I answer for Mina and myself,\" he said.",
+                "\"Count me in, Professor,\" said Mr. Quincey Morris.",
+                "\"I am with you,\" said Lord Godalming,",
+                "\"for Lucy's sake, if for no other reason.\"",
+                "Dr. Seward simply nodded.",
+                "",
+                "The Professor laid his golden crucifix on the table,",
+                "and held out his hand on either side;",
+                "and so, as we all took hands,",
+                "our solemn compact was made.",
+            ],
+        },
+        {
+            "num": "No. III.",
+            "title": "FROM PROFESSOR ARMINIUS.",
+            "subtitle": "Of Buda-Pesth University; communicated to the council by Professor Van Helsing.",
+            "style": "letter",
+            "opening": [
+                "My dear Van Helsing, --",
+            ],
+            "paras": [
+                "You ask me of what stock this man-that-was may have sprung. From all the means that are, I tell you of what he has been.",
+                "He must, indeed, have been that Voivode Dracula who won his name against the Turk, over the great river on the very frontier of Turkey-land. If it be so, then was he no common man; for in that time, and for centuries after, he was spoken of as the cleverest and the most cunning, as well as the bravest of the sons of the \"land beyond the forest.\"",
+                "That mighty brain and that iron resolution went with him to his grave, and are even now arrayed against you. The Draculas were, I must tell you, a great and noble race, though now and again were scions who were held by their coevals to have had dealings with the Evil One. They learned his secrets in the Scholomance, amongst the mountains over Lake Hermanstadt, where the devil claims the tenth scholar as his due.",
+                "In the records are such words as \"stregoica\" -- witch, \"ordog,\" and \"pokol\" -- Satan and hell; and in one manuscript this very Dracula is spoken of as \"wampyr,\" which you understand too well.",
+                "There have been from the loins of this very one great men and good women, and their graves make sacred the earth where alone this foulness can dwell. For it is not the least of its terrors that this evil thing is rooted deep in all good; in soil barren of holy memories it cannot rest.",
+            ],
+            "signoff": "-- Your obedient servant,",
+            "signature": "ARMINIUS.",
+        },
+        {
+            "num": "No. IV.",
+            "title": "OF THE POWERS AND THE LIMITS OF THE VAMPIRE.",
+            "subtitle": "The substance of Professor Van Helsing's discourse to the council.",
+            "style": "prose",
+            "paras": [
+                "This vampire which is amongst us is of himself so strong in person as twenty men; he is of cunning more than mortal, for his cunning be the growth of ages; he have still the aids of necromancy, which is, as his etymology imply, the divination by the dead, and all the dead that he can come nigh to are for him at command; he is brute, and more than brute; he is devil in callous, and the heart of him is not.",
+                "He can, within limitations, appear at will when, and where, and in any of the forms that are to him. He can transform himself to wolf, as we gather from the ship arrival in Whitby; he can be as bat, as Madam Mina saw him on the window at Whitby; he can come in mist which he create; he come on moonlight rays as elemental dust; he become so small -- we ourselves saw Miss Lucy, ere she was at peace, slip through a hairbreadth space at the tomb door. He can see in the dark -- no small power this, in a world which is one half shut from the light.",
+                "The nosferatu do not die like the bee when he sting once. He is only stronger; and being stronger, have yet more power to work evil. He can flourish when that he can fatten on the blood of the living; but he cannot flourish without this diet. He throws no shadow; he make in the mirror no reflect.",
+                "And yet he is not free. Nay; he is even more prisoner than the slave of the galley, than the madman in his cell. He may not enter anywhere at the first, unless there be some one of the household who bid him to come. His power ceases, as does that of all evil things, at the coming of the day. Only at certain times can he have limited freedom: if he be not at the place whither he is bound, he can only change himself at noon or at exact sunrise or sunset. It is said, too, that he can only pass running water at the slack or the flood of the tide.",
+                "Then there are things which so afflict him that he has no power: as the garlic that we know of; and as for things sacred, as this symbol, my crucifix, to them he is nothing, but in their presence he take his place far off and silent with respect. The branch of wild rose on his coffin keep him that he move not from it; a sacred bullet fired into the coffin kill him so that he be true dead; and as for the stake through him, we know already of its peace; or the cut-off head that giveth rest.",
+                "Thus when we find the habitation of this man-that-was, we can confine him to his coffin and destroy him, if we obey what we know. But he is clever.",
+            ],
+        },
+        {
+            "num": "No. V.",
+            "title": "OF THE VAMPYRE.",
+            "subtitle": "An extract from a very old book of Transylvania, concerning the Strigoi; from Dr. Van Helsing's portfolio.",
+            "style": "ancient",
+            "paras": [
+                "Herein is writ of the Strigoi, which dieth not. When the sun is set and the cock croweth no more, he riseth from the grave wherein he was laid unshriven, and walketh the night in the shape of a mist, or of a great hound, or of a bat that drinketh.",
+                "He cometh to the chamber of them that sleep, and layeth his cold mouth upon them, and drinketh their life in their sleep; and they that are so drunk of grow pale and pine, and die, and themselves become Strigoi, and so the curse multiplieth.",
+                "Yet is he not without law. He may not enter where he is not bidden. The garlic flower offendeth him, and the crucifix driveth him back, and the sacred Host consumeth him as fire. He casteth no shadow in the glass, neither doth his image appear therein. In the daylight he must rest him in the earth of his own grave; and if a stake of wood be driven through his heart whilst he sleepeth, then is he truly dead, and his soul is loosed.",
+                "These things are known to the shepherds of the mountains, who set the garlic at their doors on the Eve of St. George, when all evil things hold their sabbath.",
+            ],
+        },
+        {
+            "num": "No. VI.",
+            "title": "FOR MADAM MINA.",
+            "subtitle": "Resolution of the council, 30th September; Mrs. Harker having withdrawn.",
+            "style": "notice",
+            "lead": "THIS NIGHT IS THE END UNTIL ALL BE WELL.",
+            "paras": [
+                "After to-night Madam Mina must not have to do with this so terrible affair. It is not good that she run a risk so great. We men are determined -- nay, are we not pledged? -- to destroy this monster; but it is no part for a woman.",
+                "Even if she be not harmed, her heart may fail her in so much and so many horrors; and hereafter she may suffer -- both in waking, from her nerves, and in sleep, from her dreams.",
+                "You no more must question. We shall tell you all in good time. We are men and are able to bear; but you must be our star and our hope, and we shall act all the more free that you are not in the danger, such as we are.",
+                "Manlike, they had told her to go to bed and sleep; as if a woman can sleep when those she loves are in danger! She shall lie down and pretend to sleep, lest her husband have added anxiety when he returns.",
+                "(The council was here interrupted in a very startling way. Outside the house came the sound of a pistol-shot; the glass of the window was shattered with a bullet. It was Mr. Morris, who, whilst the Professor was talking, had seen a big bat sit upon the window-sill, and had gone out to have a shot, as he has been doing of late of evenings. \"Did you hit it?\" asked Dr. Van Helsing. \"I don't know; I fancy not, for it flew away into the wood.\")",
+            ],
+        },
+        {
+            "num": "No. VII.",
+            "title": "THE MIDNIGHT PLEA.",
+            "subtitle": "From Dr. Seward's diary, 1st October, 4 a.m.; just as the party were about to leave for Carfax.",
+            "style": "prose",
+            "paras": [
+                "Just as we were about to leave the house, an urgent message was brought to me from Renfield to know if I would see him at once, as he had something of the utmost importance to say to me. We all went down the passage together: the Professor, Lord Godalming, Mr. Morris, Mr. Harker, and I.",
+                "We found him in a state of considerable excitement, but far more rational in his speech and manner than I had ever seen him. His request was that I would at once release him from the asylum and send him home. This he backed up with arguments regarding his complete recovery, and adduced his own existing sanity. \"I appeal to your friends,\" he said, \"they will, perhaps, not mind sitting in judgment on my case. By the way, you have not introduced me.\"",
+                "There was a certain dignity in the man's manner, so much of the habit of equality, that I at once made the introduction: \"Lord Godalming; Professor Van Helsing; Mr. Quincey Morris, of Texas; Mr. Renfield.\" He shook hands with each of them, saying in turn: \"Lord Godalming, I had the honour of seconding your father at the Windham; I grieve to know, by your holding the title, that he is no more. He was a man loved and honoured by all who knew him; and in his youth was, I have heard, the inventor of a burnt rum punch, much patronised on Derby night. Mr. Morris, you should be proud of your great state. What shall any man say of his pleasure at meeting Van Helsing? Sir, I make no apology for dropping all forms of conventional prefix. When an individual has revolutionised therapeutics by his discovery of the continuous evolution of brain-matter, conventional forms are unfitting, since they would seem to limit him to one of a class.\"",
+"I desire to go at once -- here -- now -- this very hour -- this very moment, if I may. Time presses, and in our implied agreement with the old scytheman it is of the essence of the contract.\"",
+                "When he found that his appeal would not be successful, he got into quite a frantic condition. He threw himself on his knees, and held up his hands, wringing them in plaintive supplication, and poured forth a torrent of entreaty, with the tears rolling down his cheeks: \"Let me entreat you, Dr. Seward, oh, let me implore you, to let me out of this house at once. Send me away how you will and where you will; send keepers with me with whips and chains; let them take me in a strait-waistcoat, manacled and leg-ironed, even to a gaol; but let me go out of this. You don't know what you do by keeping me here. I am speaking from the depths of my heart -- of my very soul. You don't know whom you wrong, or how; and I may not tell. Woe is me! I may not tell. By all you hold sacred -- by all you hold dear -- by your love that is lost -- by your hope that lives -- for the sake of the Almighty, take me out of this and save my soul from guilt! Can't you hear me, man? Can't you understand? Will you never learn? Don't you know that I am sane and earnest now; that I am no lunatic in a mad fit, but a sane man fighting for his soul? Oh, hear me! hear me! Let me go! let me go! let me go!\"",
+                "The collapse had come, as on former occasion, just as I had expected. When I was leaving the room, last of our party, he said to me in a quiet, well-bred voice: \"You will, I trust, Dr. Seward, do me the justice to bear in mind, later on, that I did what I could to convince you to-night.\"",
+            ],
+        },
+    ],
+    "plates": [
+        {
+            "after_doc": 0,
+            "file": "plates/renfield_mina.jpg",
+            "numeral": "Plate I.",
+            "title": "THE VISIT.",
+            "caption": "Mrs. Harker holds out her hand to the patient; Dr. Seward stands ready by the door.",
+            "prompt": "19th century oil painting, vertical portrait composition: a gracious lady in a dark Victorian dress and shawl holding out her hand to a gaunt wild-eyed man seated on the edge of a narrow bed in a bare stone-walled asylum cell, a stern bearded doctor standing watchfully by the door. Tense, formal, deeply atmospheric, Victorian book-illustration style. No text, no watermark.",
+        },
+        {
+            "after_doc": 2,
+            "file": "plates/compact.jpg",
+            "numeral": "Plate II.",
+            "title": "THE SOLEMN COMPACT.",
+            "caption": "Six hands joined across the study table, upon which lies the Professor's golden crucifix.",
+            "prompt": "19th century oil painting, vertical portrait composition: six hands joined together over a lamplit Victorian study table strewn with papers, a small golden crucifix laid in the centre of the joined hands, five grave men and one woman leaning in around the table, shadows deep. Solemn and conspiratorial, Victorian book-illustration style. No text, no watermark.",
+        },
+        {
+            "after_doc": 4,
+            "file": "plates/village_woodcut.png",
+            "numeral": "Plate III.",
+            "title": "THE VILLAGE UNDER THE CASTLE.",
+            "caption": "A Transylvanian village in the shadow of the mountains; woodcut from the old book.",
+        },
+        {
+            "after_doc": 4,
+            "file": "plates/bat_woodcut.png",
+            "numeral": "Plate IV.",
+            "title": "THE BAT.",
+            "caption": "The night-walker in his winged shape; woodcut from the old book.",
+        },
+        {
+            "after_doc": 5,
+            "file": "plates/plea.jpg",
+            "numeral": "Plate V.",
+            "title": "THE PLEA.",
+            "caption": "Renfield on his knees in the night corridor, imploring the four men to let him go.",
+            "prompt": "19th century oil painting, vertical portrait composition: a dishevelled gaunt man on his knees in a dim lamplit asylum corridor at night, hands raised in desperate supplication toward four grave Victorian gentlemen standing before him, one in a frock coat turning away toward a door. Desperate, tragic, Victorian book-illustration style. No text, no watermark.",
+        },
+    ],
+}
